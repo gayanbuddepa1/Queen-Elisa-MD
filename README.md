@@ -1,13 +1,12 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF00FF&lines=𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+𝚀𝚄𝙴𝙴𝙽+𝙴𝙻𝙸𝚂𝙰+𝚆𝙰+𝙱𝙾𝚃+𝚁𝙴𝙿𝙾.;𝙲𝚁𝙴𝙰𝚃𝙴𝙳+𝙱𝚈+𝙳𝙰𝚁𝙺+𝙼𝙰𝙺𝙴𝚁+𝙾𝙵𝙲;𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝚂𝙸𝙼𝙿𝙻𝙴+𝙱𝙾𝚃;𝙰𝙽𝙳+𝙸𝙽𝙲𝙻𝚄𝙳𝙴+𝙼𝙾𝚁𝙴+𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂;𝘛𝘏𝘈𝘕𝘒𝘚+𝘍𝘙𝘖+𝘝𝘐𝘚𝘐𝘛𝘐𝘕𝘎+𝘔𝘠+𝘎𝘐𝘛)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://i.ibb.co/ZWctf3M/Queen-Elisa-Git-Lo-Go.jpg" width="300" height="300">
+  <img src="https://i.ibb.co/ZWctf3M/king-gayan-Git-Lo-Go.jpg" width="300" height="300">
   
 # 🧚 ◍ Gayan-King MD ◍ 🧚
 <div align="center">
-Queen Elisa is simple Multi divece whatsapp bot in srilanka Made By DarkMaker Base is cheems bot Special Thanks Fro All helpers
+King-Gayan is simple Multi divece whatsapp bot in srilanka Made By DarkMaker Base is cheems bot Special Thanks Fro All helpers
   
- [@SlRealtech]() | [@darkAlpha]() | [@sanuwa]() | [@isuru]() 
 
 <div align="left">
 
@@ -27,7 +26,7 @@ Queen Elisa is simple Multi divece whatsapp bot in srilanka Made By DarkMaker Ba
 # 
 ### FORK Gayan-King REPO
  <p align="left">
-<a href="https://github.com/DarkMakerofc/Queen-Elisa-MD/fork"><img align="center" src="https://i.imgur.com/t1fC4oE.jpeg" alt="Fork and deploy" height="35" width="150" /></a>
+<a href="https://github.com/DarkMakerofc/gayanbuddeepa1-MD/fork"><img align="center" src="https://i.imgur.com/t1fC4oE.jpeg" alt="Fork and deploy" height="35" width="150" /></a>
 
 ### SCAN QR CODE 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@mrnimaofc/Queen-Elisa-MD?v=1?outputonly=1&lite=1#index.js)
@@ -41,7 +40,7 @@ Queen Elisa is simple Multi divece whatsapp bot in srilanka Made By DarkMaker Ba
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FFFF00&lines=If+you+think+this+bot+is+not+good;deploy+another+bot+you+like;If+you+become+Question+about+bot;join+our+Whatsapp+support+group;to+solve+it+♥️)](https://git.io/typing-svg)
 #### 𝙵𝚁𝙾 𝙼𝙾𝚁𝙴 
 + [`𝙹𝙾𝙸𝙽 𝙷𝙴𝙻𝙿 𝙶𝚁𝙾𝚄𝙿`](https://chat.whatsapp.com/KYvD0uan1KKLUSTtMHV9vi) 
-+ [`𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙾𝚆𝙽𝙴𝚁`](https://wa.me/94715166712?text=From_Queen_Elisa_Md_Repo💃)
++ [`𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙾𝚆𝙽𝙴𝚁`](https://wa.me/94715166712?text=From_Gayan_king_Md_Repo💃)
 
 #### ```TOTAL REPO VIEWS 🧚```
 ![Visitor Count](https://profile-counter.glitch.me/DarkMakerofc/count.svg)
@@ -56,7 +55,7 @@ Queen Elisa is simple Multi divece whatsapp bot in srilanka Made By DarkMaker Ba
  ▒█▒█░   ░█░
  ░▀▄▀░   ▄█▄
  
- 𝙌𝙪𝙚𝙚𝙣 𝙀𝙡𝙞𝙨𝙖 𝙈𝘿 𝘽𝙮 𝘿𝙖𝙧𝙠 𝙈𝙖𝙠𝙚𝙧 
+ king gayan𝙈𝘿 𝘽𝙮 𝘿𝙖𝙧𝙠 𝙈𝙖𝙠𝙚𝙧 
  𝙋𝙪𝙗𝙡𝙞𝙘 𝘿𝙖𝙩𝙚 - 2022 / 07 / 03 
  𝙏𝙝𝙖𝙣𝙠𝙨 𝙏𝙤 𝙎𝙘𝙧𝙞𝙥𝙩 𝙁𝙧𝙤 𝙂𝙤𝙟𝙤 𝙎𝙖𝙩𝙤𝙧𝙪
  
