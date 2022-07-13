@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://i.ibb.co/ZWctf3M/Queen-Elisa-Git-Lo-Go.jpg" width="300" height="300">
   
-# 🧚 ◍ Queen Elisa MD ◍ 🧚
+# 🧚 ◍ Gayan-King MD ◍ 🧚
 <div align="center">
 Queen Elisa is simple Multi divece whatsapp bot in srilanka Made By DarkMaker Base is cheems bot Special Thanks Fro All helpers
   
@@ -25,7 +25,7 @@ Queen Elisa is simple Multi divece whatsapp bot in srilanka Made By DarkMaker Ba
   <img src="https://telegra.ph/file/30f0019baa0dc2715c62d.jpg" width="180" height="100ll">
   
 # 
-### FORK QUEEN ELISA REPO
+### FORK Gayan-King REPO
  <p align="left">
 <a href="https://github.com/DarkMakerofc/Queen-Elisa-MD/fork"><img align="center" src="https://i.imgur.com/t1fC4oE.jpeg" alt="Fork and deploy" height="35" width="150" /></a>
 
@@ -50,11 +50,7 @@ Queen Elisa is simple Multi divece whatsapp bot in srilanka Made By DarkMaker Ba
 # 
  
  ```
-          /*
- █▀▀█ █░▒█ █▀▀▀ █▀▀▀ █▄░▒█       █▀▀▀ █░░░ ▀█▀ █▀▀▀█ █▀▀█      
- █░▒█ █░▒█ █▀▀▀ █▀▀▀ █▒█▒█       █▀▀▀ █░░░ ░█░ ▀▀▀▄▄ █▄▄█      
- ▀▀█▄ ▀▄▄▀ █▄▄▄ █▄▄▄ █░░▀█       █▄▄▄ █▄▄█ ▄█▄ █▄▄▄█ █░▒█      
-
+             
 
  █░░▒█   ▄█░
  ▒█▒█░   ░█░
@@ -88,7 +84,7 @@ global.owner = ['94765790933'] // Owner number , (අයිතිකරුගේ
 global.pemilik = ['94765790933'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
 global.premium = ['94765790933'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
 global.pengguna = '༇༃⭕(᳆⃞ʀͥᴇᷧᴀͫʟ⃞🔱සතා"⃟හ්' // Your name ඔබේ නම 
-global.botnma = '💃 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐁𝐨𝐭 💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
+global.botnma = 'Gayan-King 𝐁𝐨𝐭 💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
 global.ownernma = '𝓓𝓪𝓻𝓴 𝓜𝓪𝓴𝓮𝓻' //ownernama,ownername
 global.packname = '༇༃⭕(᳆⃞ʀͥᴇᷧᴀͫʟ⃞🔱සතා"⃟හ් Sticker' // Sticker package name 
 global.author = 'Dark Maker' // Sticker Autor name 
